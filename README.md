@@ -1,5 +1,5 @@
 # mini_IM 
-![mini_IM_banner](mini_IM.png)
+![mini_IM_banner](images/mini_IM.png)
 
 
 ## About
