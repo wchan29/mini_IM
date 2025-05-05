@@ -1,7 +1,8 @@
+# mini_IM 
 ![mini_IM_banner](mini_IM.png)
 
-# mini_IM 
 
+## About
 > <img src="images/uw-crest-color-web-digital.png" align="right" height="150"/>
 > Compact Induction Machine with 3D Printed Housing. 
 > 2021 UW-Madison Senior Design Project.
