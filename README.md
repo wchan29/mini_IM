@@ -14,8 +14,8 @@ This project involves the design and prototyping of a compact, low-voltage induc
 
 ### Rendering
 <div style="display: flex; gap: 10px; align-items: flex-start;">
-  <img src="images/cad_p1.JPG" alt="Image 1" height="250">
-  <img src="images/cad_p1_assembly_animation.gif" alt="Image 2" height="250">
+  <img src="images/cad_p1.JPG" alt="Image 1" height="275">
+  <img src="images/cad_p1_assembly_animation.gif" alt="Image 2" height="275">
 </div>
 
 ## License
