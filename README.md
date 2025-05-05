@@ -1,12 +1,15 @@
-![animation](mini_IM.png)
+![mini_IM_banner](mini_IM.png)
 
 # mini_IM 
 
-> <img src="CAD/rendering/cad_p1.JPG" align="right" height="200"/>
-> Compact Induction Machine with 3D Printed Housing. 2021 UW-Madison Senior Design Project.
+> <img src="CAD/rendering/cad_p1.JPG" align="right" height="100"/>
+> Compact Induction Machine with 3D Printed Housing. 
+> 2021 UW-Madison Senior Design Project.
 
-> **Team Memeber:** Anson Chan , Jon Keller, Steven Gerbers, Nathan Seibold
-> **Post**: [Blog Post](https://wchan29.github.io/portfolio/wempec_induction_3d/)
+This project involves the design and prototyping of a compact, low-voltage induction machine kit for future use in UW-Madison's electrical engineering courses. Commissioned by the Grainger Teaching Studio, the kit supports a new hands-on power conversion class. This repository documents iterations developed by the senior design team.
+
+**Team Memeber:** Anson Chan , Jon Keller, Steven Gerbers, Nathan Seibold <br>
+**Post**: [Blog Post](https://wchan29.github.io/portfolio/wempec_induction_3d/)
 
 
 
@@ -18,7 +21,7 @@
 
 
 ## Background
-This project involves the design and prototyping of a compact, low-voltage induction machine kit for future use in UW-Madison's electrical engineering courses. Commissioned by the Grainger Teaching Studio, the kit supports a new hands-on power conversion class. This repository documents iterations developed by the senior design team.
+
 
 
 ## License
