@@ -1,6 +1,11 @@
 # mini_IM 
 ![mini_IM_banner](images/mini_IM.png)
 
+[![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+![Static Badge](https://img.shields.io/badge/Free-For_Non_Commerical_Use-blue)
+![Static Badge](https://img.shields.io/badge/CAD-SolidWorks-red)
+[![Static Badge](https://img.shields.io/badge/EM-JMAG%20Express-blue)](https://www.jmag-international.com/express/)
+
 
 ## About
 > <img src="images/uw-crest-color-web-digital.png" align="right" height="150"/>
